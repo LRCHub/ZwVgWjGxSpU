@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "additional cause for sorrow",
+  "base_artist": "deadman",
+  "createdAt": "2026-02-12T15:48:44.061075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "deadman - additional cause for sorrow",
+      "artist": "Malformed Box",
+      "has_synced": true,
+      "path": "select/01_deadman_-_additional_cause_for_sorrow_Malformed_Box.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "additional cause for sorrow",
+      "artist": "deadman",
+      "has_synced": true,
+      "path": "select/02_additional_cause_for_sorrow_deadman.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "additional cause for sorrow",
+      "artist": "deadman",
+      "has_synced": false,
+      "path": "select/pl_01_additional_cause_for_sorrow_deadman.txt"
+    }
+  ]
+}
